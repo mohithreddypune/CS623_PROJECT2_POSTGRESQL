@@ -18,7 +18,6 @@ The project2 practical part is about:- Creating a Geographic Information System 
 
 7.N-Optimization of queries 
 
-Above are the questions need to be solved.
 
 Data Source: https://www.naturalearthdata.com/downloads/110m-cultural-vectors/
 
